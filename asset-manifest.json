@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JordanATM/Contador_Clics/static/css/main.deceb2de.css",
+    "main.js": "/JordanATM/Contador_Clics/static/js/main.fcb92ad7.js",
+    "static/media/fcc_primary_large.svg": "/JordanATM/Contador_Clics/static/media/fcc_primary_large.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/JordanATM/Contador_Clics/index.html",
+    "main.deceb2de.css.map": "/JordanATM/Contador_Clics/static/css/main.deceb2de.css.map",
+    "main.fcb92ad7.js.map": "/JordanATM/Contador_Clics/static/js/main.fcb92ad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deceb2de.css",
+    "static/js/main.fcb92ad7.js"
+  ]
+}
